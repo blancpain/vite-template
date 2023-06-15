@@ -1,10 +1,10 @@
-import { useState } from "react";
-import "./styles/App.css";
+import { useState } from 'react';
+import './styles/App.css';
 
 function App() {
   return (
     <div>
-      <h1>It works and you found me!</h1>
+      <h1>It works!</h1>
     </div>
   );
 }
